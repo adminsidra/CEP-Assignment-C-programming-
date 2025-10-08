@@ -1,7 +1,6 @@
 📘 Programming in C (CEP) — Assignment
 
-This repository contains a collection of C programs written as part of the Computer Engineering Programming (CEP) assignment.
-Each program demonstrates key concepts in the C programming language, including structures, arrays, functions, file handling, recursion, pointers, and decision-making statements.
+This repository contains a collection of C programs written as part of the (CEP) assignment.
 
 
 ---
